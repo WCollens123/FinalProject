@@ -1,0 +1,4 @@
+name,attack,damage,hp,row,col
+goblin,rusty dagger,15,30,3,3
+skeleton,bone toss,25,30,2,9
+troll,club smash,40,60,5,4
